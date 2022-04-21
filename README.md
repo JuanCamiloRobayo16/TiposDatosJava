@@ -1,7 +1,7 @@
 # TiposDeDatosEnJava
 
 ##JVM (Java Virtual Machine)
-
+![RAM](ram.jpeg)
 * Realiza una gestion eficiente de la memoria.
 * Distribuye la memoria en dos zonas: Stack (Pila) y Heap (Monton).
 
